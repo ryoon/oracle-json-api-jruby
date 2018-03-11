@@ -1,4 +1,4 @@
-# Convert a query in SQL for Oracle Database to JSON
+# Convert a query in SQL for Oracle Database to JSON/CSV
 
 This program converts a result from Oracle Database to JSON/CVS format.
 
