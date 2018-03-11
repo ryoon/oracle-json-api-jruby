@@ -15,6 +15,7 @@ To run
 	$ jruby -S bundle exec rackup
 
 POST to http://localhost:9292/api/v1/query
+
 	{
 	  "type": "json",
 	  "query": "select * from schema.table"
